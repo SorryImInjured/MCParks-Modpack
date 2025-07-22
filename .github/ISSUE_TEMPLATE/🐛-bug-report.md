@@ -2,7 +2,7 @@
 name: "\U0001F41B Bug Report"
 about: Create a report to help improve the modpack!
 title: ''
-labels: ''
+labels: "\U0001F41B Bug"
 assignees: SorryImInjured
 
 ---
