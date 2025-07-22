@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Specifications (please complete the following information):**
  - OS: [e.g. Windows, Linux, Mac]
- - Modpack Version [e.g. Beta 1.0.0]
+ - Modpack Version: [e.g. Beta 1.0.0]
 
 **Additional notes**
 Add any other context about the problem here.
