@@ -3,16 +3,15 @@
   "hotfixesFormat": null,
   "versions": [
 	{
-        "id": "1.0.0",
+        "id": "1.5.5",
         "releasedAt": 209384093820,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/",
-                "curseforge": "https://curseforge.com/",
-                "generic": "https://example.com/"
+                "modrinth": "https://modrinth.com/modpack/mcparks_unofficial"
             }
         }
     }
   ]
 
 }
+
