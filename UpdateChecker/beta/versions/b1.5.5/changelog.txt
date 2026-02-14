@@ -1,8 +1,8 @@
 **Summary**
-Never miss an update with new notifications and in-game changelogs!
+Never miss an update with new notifications and in-game changelogs! Fixed a bug where the modpack usage indication dot in tab didn't show when players were on different backends.
 
 **Fine-Tuning**
 - Introduced Modpack Update Checker
+- Updated MCParks-Sync
 
 **Pardon our pixie dust**
-
