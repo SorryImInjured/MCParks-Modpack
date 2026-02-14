@@ -1,0 +1,7 @@
+### Summary
+Never miss an update with notifications and in game changelogs!
+
+### Fine-Tuning
+- Introduced Modpack Update Checker
+
+**Pardon our pixie dust ✨**
