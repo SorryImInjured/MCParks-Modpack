@@ -1,0 +1,1 @@
+Walt Disney Presents: One Man's Dream now plays the actual video instead of the item frames! The indication dot that shows if someone is using the modpack will now also be displayed above their head. Check out Modrinth for the full changelog!
