@@ -37,10 +37,20 @@
                 "modrinth": "https://modrinth.com/modpack/mcparks_unofficial"
             }
         }
+    },
+	{
+        "id": "b1.7.2",
+        "releasedAt": 1771219000000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/mcparks_unofficial"
+            }
+        }
     }
   ]
 
 }
+
 
 
 
