@@ -1,0 +1,17 @@
+Summary
+
+
+This update is a rather significant performance improvement, which is always great! You can now view your screenshots in-game! And for those of you who use MCPark’s live weather and time sync, rain will now sound more immersive!
+
+
+Fine-Tuning
+
+
+- Introduced Cool Rain
+- Introduced GPUBooster
+- Introduced ImmediatelyFast
+- Introduced Item Model Fix
+- Introduced Screenshot Viewer
+
+
+Pardon our pixie dust
