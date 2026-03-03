@@ -1,3 +1,9 @@
+Summary
+
+
+Chat Heads doesn't seem to work very well on MCParks, so it had to be removed.
+
+
 Fine-Tuning
 
 
