@@ -1,20 +1,14 @@
-Summary
+- Summary
+  - A big update for bug fixes! You will no longer be forced into full-screen on every launch! Custom cosmetics can now be used again after Cosmetica’s 2.0 update! You will now see players' heads in chat next to their names! The lanterns at The Twilight Zone Tower of Terror are lanterns again! Ropes used across MCParks now render much closer to what was intended!
 
+- Fine-Tuning
+  - Introduced Chat Heads
+  - Introduced MCParks-RopeFix
+  - Introduced MCParks-TOTLanternsFix
+  - Updated + Enabled Cosmetica
+  - Updated MCParks-OMDhd
+  - Updated 3D Skin Layers
+  - Sent Colormatic to the Vault
+  - Sent Model Gap Fix to the Vault
 
-A big update for bug fixes! You will no longer be forced into full-screen on every launch! Custom cosmetics can now be used again after Cosmetica’s 2.0 update! You will now see players' heads in chat next to their names! The lanterns at The Twilight Zone Tower of Terror are lanterns again! Ropes used across MCParks now render much closer to what was intended!
-
-
-Fine-Tuning
-
-
-- Introduced Chat Heads
-- Introduced MCParks-RopeFix
-- Introduced MCParks-TOTLanternsFix
-- Updated + Enabled Cosmetica
-- Updated MCParks-OMDhd
-- Updated 3D Skin Layers
-- Sent Colormatic to the Vault
-- Sent Model Gap Fix to the Vault
-
-
-Pardon our pixie dust
+- Pardon our pixie dust
