@@ -1,13 +1,7 @@
-Summary
+- Summary
+  - Chat Heads doesn't seem to work very well on MCParks, so it had to be removed.
 
+- Fine-Tuning
+  - Sent Chat Heads to the Vault
 
-Chat Heads doesn't seem to work very well on MCParks, so it had to be removed.
-
-
-Fine-Tuning
-
-
-- Sent Chat Heads to the Vault
-
-
-Pardon our pixie dust
+- Pardon our pixie dust
