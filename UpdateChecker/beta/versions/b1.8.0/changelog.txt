@@ -1,0 +1,13 @@
+- Summary
+  - Exciting update today! Let’s start with the boring stuff: Chat Tools and Auth Ne are no longer included. Auth Me was causing more issues than it solved, and Chat Tools is no longer needed thanks to some new mods. The mods replacing Chat Tools are ChatMacros and MCParks-WelcomeHome! ChatMacros lets you assign a chat message or command to execute on key press. Just head over to the controls tab in options. As for Welcome Home, you can now easily set your own custom message, which will be sent when a new player joins the server; it also can’t be tricked by fake messages! Have a look at chat settings in options to set it up. You’ll also find that your chat history is much longer and that when looking towards Dumbo the Flying Elephant in The Magic Kingdom, your framerate won’t drop as much when it isn’t in view. Unfortunately, at this time, I was unsuccessful in improving the actual performance of MCParks’ voxel models. The most exciting addition in today’s update is MCParks-BetterBins! This mod will replace the trash bins with Disney’s iconic models! Right now, only Main Street and Tomorrowland in The Magic Kingdom have models, though there are more on the way! The modpack will also temporarily not ship with cached chunks; don’t worry, they will load as you play. Thanks for reading!
+
+- Fine-Tuning
+  - Introduced ChatMacros
+  - Introduced MCParks-BetterBins
+  - Introduced MCParks-FasterVoxels
+  - Introduced MCParks-WelcomeHome
+  - Introduced More Chat History
+  - Sent Auth Me to the Vault
+  - Sent Chat Tools to the Vault
+
+- Pardon our pixie dust
