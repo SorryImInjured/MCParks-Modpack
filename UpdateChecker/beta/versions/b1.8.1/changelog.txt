@@ -1,0 +1,17 @@
+- Summary
+  - The battle against voxel models continues! Entities will now be culled when they are occluded instead of just when they are off-screen. This means you should see much higher framerates in many situations. On the fun side of things, there are now many more variants of garbage bins; basically, all of Magic Kingdom is now covered! The current bin variants are now… Adventureland, Cheshire Cafe, Fantasyland, Haunted Mansion, Main Street, Magic Kingdom Entrance, New Fantasyland, Polynesian Resort, Tangled Bathrooms, Tomorrowland, and Pirates of the Caribbean!  
+
+- Fine-Tuning
+  - Introduced Brute force Rendering Culling
+  - Updated 3D Skin Layers
+  - Updated CraterLib
+  - Updated DropConfirm
+  - Updated Fabric Language Kotlin
+  - Updated Fabric Loader
+  - Updated MacOS Input Fixes
+  - Updated MCParks-BetterBins
+  - Updated MCParks-Sync (From Beta 1.6.0)
+  - Updated Simple Discord RPC
+  - Updated UniLib
+
+- Pardon our pixie dust
