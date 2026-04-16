@@ -1,5 +1,5 @@
 - Summary
-  - No major changes this update. Added a setup assistant on first launch to help you pick your settings! Community cosmetics are no longer available.
+  - No major changes this update. Added a setup assistant on first launch to help you pick your settings! Added back the starting chunk cache. Cached areas include WDW, DL (-CA), DLP, and TDL. Community cosmetics are no longer available.
 
 - Fine-Tuning
   - Introduced MCParks-FirstLaunch
@@ -10,3 +10,4 @@
   - Updated Wavey Capes
 
 - Pardon our pixie dust
+
