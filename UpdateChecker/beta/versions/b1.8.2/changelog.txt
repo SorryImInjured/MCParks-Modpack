@@ -1,0 +1,12 @@
+- Summary
+  - No major changes this update. Added a setup assistant on first launch to help you pick your settings! Community cosmetics are no longer available.
+
+- Fine-Tuning
+  - Introduced MCParks-FirstLaunch
+  - Sent Cosmetica to the Vault
+  - Updated 3D Skin Layers
+  - Updated Fast IP Ping
+  - Updated Packet Fixer
+  - Updated Wavey Capes
+
+- Pardon our pixie dust
