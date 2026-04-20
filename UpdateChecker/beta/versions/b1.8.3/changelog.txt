@@ -1,0 +1,7 @@
+- Summary
+  - Brought back Faster Voxels! This update may have a significant performance improvement in multiple areas and attractions! However, it’s not free, and model quality is reduced to do so. Please let me know if there are any attractions/models which you would like to see added to MCParks-FasterVoxels!
+
+- Fine-Tuning
+  - Introduced MCParks-FasterVoxels
+
+- Pardon our pixie dust
