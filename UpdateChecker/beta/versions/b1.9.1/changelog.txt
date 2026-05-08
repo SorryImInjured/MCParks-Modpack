@@ -1,0 +1,16 @@
+- Summary
+  - Exciting update for a minor version! To start, thank you to Leroy for taking amazing pictures to update the outdated gallery! One Man’s Dream should finally work on all systems! Huge thank you to our macOS playtesters MysticalMyst and Fireball71! Never miss a show again, thanks to MCParks Show Tracker, complete with notifications and an in-game menu which displays all shows formatted to your local time zone! Big thank you to Leroy for providing the API and to Fireball71 for the in-game mod! You will now find a new spell check when typing in chat to avoid any embarrassing mistakes. Freecam is now included, very handy for taking pictures. You’ll also find a new resource pack that removes the bars above your hotbar to clean up your screen. If you ever have the misfortune of crashing, you will be greeted with a new assistant to help you get support! Finally, particle culling is now disabled by default as it was interfering with the quality of the firework shows!
+    
+- Fine-Tuning
+  - Introduced Crash Assistant (Easily collect and send crash reports to GitHub for support.)
+  - Introduced Freecam (Press F4 to fly around freely outside of your body.)
+  - Introduced GUI Removal (Removes the three bars above the hotbar as they are not used by MCParks.)
+  - Introduced MCParks Show Tracker (Get notified and check when shows start by clicking either F8 or by using your MagicBand.)
+  - Introduced Spell Checker (Built-in spell check for chaters.)
+  - Reimagined Bobby (Updated the cached chunks for MK and EPCOT now that the 13th anniversary celebration is over.)
+  - Reimagined Particle Culling (Now disabled by default. Was culling certain particles it shouldn’t have been, very noticeable during firework shows.)
+  - Updated CraterLib
+  - Updated Fabric Language Kotlin
+  - Updated MCParks OMD Video (Completely overhauled the video system. Should work on all machines now.)
+
+- Pardon our pixie dust
