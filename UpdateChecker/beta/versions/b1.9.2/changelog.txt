@@ -1,0 +1,11 @@
+- Summary
+  - Bug fixes and cleanup for today’s update! Freecam has been replaced with a version which aligns better with the rules of MCParks! The MCParks Auto Audio mod should provide an overall better experience now after some bug and logic fixes. A new audio caching option has been added! The more you play, the better your audio experience gets! Fixed a major bug in MCParks OMD Video, which was causing some systems to crash on startup.
+
+- Fine-Tuning
+  - Introduced FriendlyFreecam (Replacing the Freecam mod with a version which doesn’t have noclip to align with MCParks’ rules.)
+  - Reimagined Bobby (Updated the cached chunks for EPCOT, which should’ve been done in Beta 1.9.1.)
+  - Sent Freecam to the Vault (Replaced by FriendlyFreecam.)
+  - Updated MCParks Auto Audio (Bug fixes and a new addition of the audio caching feature.)
+  - Updated MCParks OMD Video (Fixed a bug causing startup crash on some systems.)
+
+- Pardon our pixie dust
