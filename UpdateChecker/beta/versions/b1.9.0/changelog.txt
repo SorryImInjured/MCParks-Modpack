@@ -1,3 +1,5 @@
+- A Symphony of Bins
+
 - Summary
   - Big update today! I’ll start with the most exciting change: the MCParks audio client is no longer needed! We now have a built-in audio client with an auto-connect feature and even an audio reconnect feature to help fix when MCParks fails to start the next track! It also has smoother transitions and faster playback compared to the website! A big update has been made to MCParks Better Bins, adding too many textures to mention. This was made possible thanks to Fireball71’s work on the new textures! MCParks Sync has been cleaned up! Including the indicator dot now displayed on the player's head in the player list. A new AFK feature has also been added. When you are inactive for 5 minutes, your dot will change colour so other users know you’re away! Finally, we have two big fixes for our Apple Silicon users! The bug which was causing random text characters not to render upon joining has been fixed, and the One Man’s Dream video mod now actually works and won’t crash you!
     
