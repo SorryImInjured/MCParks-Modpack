@@ -1,0 +1,10 @@
+- Summary
+  - Just some bug fixes and cleanup today! The most exciting is the move to our custom fork of Bobby, which solves chunk caches bleeding across backends. That means you won’t see Disney World off in the distance of California Adventure anymore! The main menu has been reorganized and has had some unnecessary buttons removed. Same story for the in-game pause menu, which will also take you back to the main menu instead of the server list!
+
+- Fine-Tuning
+  - Updated Bobby (Replaced Bobby with a custom fork which fixes cached chunks leaking across MCParks’ backends.)
+  - Updated MCParks Better Bins (Most logging has been moved to a new config setting.)
+  - Reimagined FancyMenu (Cleaned up the main menu and game menu.)
+  - Reimagined Bobby (The include cache has been removed until a new one has been generated for the Bobby fork.)
+
+- Pardon our pixie dust
