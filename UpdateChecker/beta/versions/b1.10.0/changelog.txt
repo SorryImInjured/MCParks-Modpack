@@ -1,4 +1,4 @@
-- A Symphony of Bins
+- The Bare Necessities
 
 - Summary
   - Hasn’t been a major update for almost a month! We’ve got some new features, updates, and user quality of life changes tonight! Starting with the biggest change, you’ll notice that 7 mods have been removed. They’re still here, but with a new face, MCParks Essentials! You’ll find a new settings button that lets you control all of the features in one place. With the debut of MCParks Essentials, we also have two new features. Wishing Well reminder, which will remind you to donate your park points in Magic Kingdom every day. And a Ride of the Day tracker and assistant. Just go into your MagicBand and right-click the “Attractions/Theme Parks” button, and you’ll be greeted with a new menu which automatically logs and tracks rides until the ROTD is found. Best of all, it syncs and shares ride data amongst modpack users! There has also been a big update to Better Bins! EPCOT now has trash bins specific to World Discovery and World Nature, and Animal Kingdom now has a texture for Harambe Market! You’ll also find the mod now covers Disneyland and Disney’s California Adventure, thanks to Fireball71’s textures!
