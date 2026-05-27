@@ -1,0 +1,7 @@
+- Summary
+  - More bug fixes for ROTD. Hopeful this is the last.
+
+- Fine-Tuning
+  - Updated MCParks Essentials (Fixed a bug where attractions with the same name were defaulting to WDW. Fixed a bug with the TDL warps. Fixed a bug with Hollywood Rip Ride Rockit and the prediction API.)
+
+- Pardon our pixie dust
