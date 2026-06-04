@@ -1,8 +1,0 @@
-- Summary
-  - Just a small update for MCParks Essentials to better work with the new ROTD backend features. The included Bobby cache has been removed temporarily due to a bug with Modrinth.
-
-- Fine-Tuning
-  - Updated Fabric Language Kotlin
-  - Updated MCParks Essentials
-
-- Pardon our pixie dust
