@@ -1,0 +1,8 @@
+- Summary
+  - Just a small update for MCParks Essentials to better work with the new ROTD backend features.
+
+- Fine-Tuning
+  - Updated Fabric Language Kotlin
+  - Updated MCParks Essentials
+
+- Pardon our pixie dust
