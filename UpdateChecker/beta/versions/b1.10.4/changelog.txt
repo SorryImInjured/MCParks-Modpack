@@ -1,0 +1,8 @@
+- Summary
+  - Some cleanup for Bobby and a small improvement to water in today's patch!
+
+- Fine-Tuning
+  - Updated Bobby (Disabled the old world version message.)
+  - Updated MCParks Essentials (Blocks adjacent to water sources now appear waterlogged.)
+
+- Pardon our pixie dust
