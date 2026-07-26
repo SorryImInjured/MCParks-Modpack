@@ -1,0 +1,16 @@
+- Summary
+  - Previously unused Transportation and Ticket Center garbage bins are now present in the updated TTC.
+
+- Fine-Tuning
+  - Introduced No Chat Restrictions (Fixed a bug unrelated to the modpack which would prevent chatting.)
+  - Updated 3D Skin Layers
+  - Updated Crash Assistant
+  - Updated ExtraSounds
+  - Updated Fabric Language Kotlin
+  - Updated FriendlyFreecam
+  - Updated MacOS Input Fixes
+  - Updated MCParks Better Bins (Now works with the new TTC area.)
+  - Updated Simple Discord RPC
+  - Updated Wavey Capes
+
+- Pardon our pixie dust
