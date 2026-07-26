@@ -2,7 +2,7 @@
 name: "✅ Recommendation"
 about: Suggest an idea for the modpack!
 title: ''
-labels: "✅ Recommendation"
+labels: ''
 assignees: SorryImInjured
 
 ---

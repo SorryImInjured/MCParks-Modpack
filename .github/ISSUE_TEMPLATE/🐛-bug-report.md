@@ -25,6 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Specifications (please complete the following information):**
  - OS: [e.g. Windows, Linux, Mac]
+ - (MacOS Only) CPU/APU: [e.g. M4]
  - Modpack Version: [e.g. Beta 1.0.0]
 
 **Additional notes**
