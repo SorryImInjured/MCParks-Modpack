@@ -1,0 +1,8 @@
+- Summary
+  - Small patch which should finally fix the missing text bug for macOS users!
+
+- Fine-Tuning
+  - Reimagined ImmediatelyFast (Disabled "hud_batching"; macOS users shouldn’t have missing text anymore.)
+  - Updated FriendlyFreecam
+
+- Pardon our pixie dust
