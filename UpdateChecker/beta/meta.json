@@ -172,6 +172,15 @@
                 "modrinth": "https://modrinth.com/modpack/mcparks_unofficial"
             }
         }
+    },
+	{
+        "id": "b1.10.6",
+        "releasedAt": 1785364047839,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/mcparks_unofficial"
+            }
+        }
     }
   ]
 }
