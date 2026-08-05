@@ -1,0 +1,8 @@
+- Summary
+  - Small patch adding support for the new Trolls Trollercoaster in USO!
+
+- Fine-Tuning
+  - Removed FriendlyFreecam
+  - Updated MCParks Essentials (ROTD now supports the new Trolls Trollercoaster in USO.)
+
+- Pardon our pixie dust
