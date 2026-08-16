@@ -1,0 +1,7 @@
+- Summary
+  - Small patch adding support for the Puihi Rafts USO!
+
+- Fine-Tuning
+  - Updated MCParks Essentials (ROTD now supports the new Puihi Rafts in USO.)
+
+- Pardon our pixie dust
