@@ -1,0 +1,8 @@
+- Summary
+  - Ride of the day now supports the new Silver Bullet roller coaster!
+
+- Fine-Tuning
+  - Updated GUI Removal (XP bar is now hidden, as it should have been.)
+  - Updated MCParks Essentials (ROTD now supports the new Silver Bullet. Resized the wish reminder icon.)
+
+- Pardon our pixie dust
