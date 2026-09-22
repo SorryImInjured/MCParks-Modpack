@@ -1,0 +1,21 @@
+- Summary
+  - Big patch today! Modrinth’s Jump in feature will no longer cause your game to crash. The in-game audio client is now part of MCParks Essentials, and Ghost Galaxy’s ride audio now works! Better Bins has had some significant work done and is far more performant than before! And finally, your head will no longer be locked from looking behind you on certain attractions. Thank you to everyone who has submitted bug reports!
+
+- Fine-Tuning
+  - Introduced No Rotation Lock
+  - Reimagined Drippy Loading Screen (Replaced the server join screen background.)
+  - Reimagined ExtraSounds (The chat message sound is now disabled by default.)
+  - Sent MCParks Auto Audio to the Vault (Now part of MCParks Essentials.)
+  - Sent UniLib to the Vault
+  - Updated 3D Skin Layers
+  - Updated Crash Assistant
+  - Updated CraterLib
+  - Updated DropConfirm
+  - Updated Fabric Language Kotlin
+  - Updated Fabric Loader
+  - Updated Fast IP Ping
+  - Updated MCParks Better Bins (The random New Fantasyland bin at the Magic Kingdom entrance is now a Main Street bin. Also made some big performance improvements.)
+  - Updated MCParks Essentials (Added new Block Patch feature. Ghost Galaxy missing audio has been fixed. Also prevents the Modrinth “Jump in” feature from causing a crash.)
+  - Updated Wavey Capes
+
+- Pardon our pixie dust
