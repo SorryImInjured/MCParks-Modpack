@@ -1,0 +1,10 @@
+- Summary
+  - Small patch today! The resource pack which removed parts of your HUD has been turned into a QoL feature in MCParks Essentials. MCParks Essentials has also had lots of work done under the hood, fixing many bugs which you might have run into at some point, and a few performance improvements which should translate to a slightly smoother experience, though this was not tested.
+
+- Fine-Tuning
+  - Sent Fast IP Ping to the Vault (Unnecessary.)
+  - Sent GUI Removal to the Vault (Now part of MCParks Essentials.)
+  - Sent Title Fixer to the Vault (Debugify already covers this.)
+  - Updated MCParks Essentials (New Hide HUD feature which replaces the GUI Removal resource pack. Performance and edge case bug fixes across all modules of the mod, too many to list individually. Config files have also been cleaned up and moved into their own folder.)
+
+- Pardon our pixie dust
